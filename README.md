@@ -60,9 +60,10 @@ Atualmente estou construindo um **CRM completo**, com multiworkspaces, controle 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=denilson-silvestre&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson-silvestre&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denilson-silvestre&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=denilson-silvestre&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
