@@ -62,7 +62,7 @@ Atualmente estou construindo um **CRM completo**, com multiworkspaces, controle 
 <p align="center">
   <img src="https://img.shields.io/github/followers/denilson-silvestre?label=Seguidores&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/denilson-silvestre?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/denilson-silvestre?label=Repositórios%20públicos&style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/github/repos/denilson-silvestre?label=Repositórios%20públicos&style=for-the-badge" /> -->
 </p>
 
 
