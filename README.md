@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/denilson-silvestre/denilson-silvestre/main/banner.svg" width="900" />
+  <img src="https://github.com/denilson-silvestre/denilson-silvestre/blob/main/banner.svg" width="900" />
 </p>
 
 ---
